@@ -1,16 +1,70 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Faiz Ahmed</h1>
 
-<!--
-**faiz-dev1/faiz-dev1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Full Stack Engineer | React • Node.js • MongoDB</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💻 Full Stack Developer
+- 🌱 Currently learning DevOps & Cloud
+- ⚡ Passionate about scalable web applications
+- 📫 Reach me on LinkedIn
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- Tailwind CSS
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+
+---
+
+## 📌 Featured Projects
+
+### 📰 NewsMonkey App
+React-based news application using API integration.
+
+### 🛒 E-Commerce Dashboard
+Admin dashboard with authentication and analytics.
+
+### ✅ Task Management System
+Productivity management system using MERN stack.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faiz-dev1&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faiz-dev1&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=faiz-dev1&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+[LinkedIn](https://linkedin.com)
