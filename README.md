@@ -53,18 +53,18 @@ Productivity management system using MERN stack.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faiz-dev1&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=faiz-dev1&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faiz-dev1&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiz-dev1&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=faiz-dev1&theme=tokyonight)
-
----
-
-## 🌐 Connect With Me
-
-[LinkedIn](https://linkedin.com)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=faiz-dev1&theme=tokyonight" />
+</p>
