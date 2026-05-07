@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Faiz Ahmed</h1>
 
-<h3 align="center">Full Stack Engineer | React • Node.js • MongoDB</h3>
+<h3 align="center">Full Stack Engineer | AI-Powered Web Apps | React • Node.js • MongoDB</h3>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Full Stack Developer
-- 🌱 Currently learning DevOps & Cloud
-- ⚡ Passionate about scalable web applications
+- 💻 Full Stack Developer & AI Integration Enthusiast
+- 🤖 Building AI-powered web applications and automation tools
+- 🌱 Currently learning DevOps, Cloud & Generative AI
+- ⚡ Passionate about scalable web applications and intelligent systems
 - 📫 Reach me on LinkedIn
 
 ---
@@ -30,6 +31,13 @@
 - MongoDB
 - MySQL
 
+### AI & Automation
+- OpenAI API
+- AI Chatbot Integration
+- Prompt Engineering
+- REST API Integration
+- Automation Workflows
+
 ### Tools
 - Git
 - GitHub
@@ -40,11 +48,14 @@
 
 ## 📌 Featured Projects
 
+### 🤖 AI Chatbot Integration
+AI-powered chatbot integrated into modern web applications.
+
 ### 📰 NewsMonkey App
 React-based news application using API integration.
 
 ### 🛒 E-Commerce Dashboard
-Admin dashboard with authentication and analytics.
+Admin dashboard with authentication, analytics, and automation features.
 
 ### ✅ Task Management System
 Productivity management system using MERN stack.
